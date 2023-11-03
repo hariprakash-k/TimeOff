@@ -19,6 +19,7 @@
         </element>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Test" max_length="40" name="test" type="boolean"/>
+        <element label="Test1" max_length="40" name="test1" type="boolean"/>
         <element calculation="(function calculatedFieldValue(current) {&#10;&#10;    var count = current.sys_mod_count + 1;&#10;    return count; // return the calculated value&#10;&#10;})(current);" label="Times submitted" max_length="40" name="times_submitted" read_only="true" type="integer" virtual="true"/>
         <element attributes="edge_encryption_enabled=true" label="Reason (Optional)" max_length="80" name="time_off_reason" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Work notes" max_length="4000" name="work_notes" type="journal_input"/>
