@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Time Off Admin">ab970138ea213110d3ba4321dfe6f463</applicability>
+        <list display_value="All employee requests">2f970138302131107ee2083c0c9f6963</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:08</sys_created_on>
+        <sys_id>67970138ee213110ff4516571181d763</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_67970138ee213110ff4516571181d763</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:08</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

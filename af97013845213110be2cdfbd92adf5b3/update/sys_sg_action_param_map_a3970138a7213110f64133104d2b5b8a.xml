@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create time request">6f9701387d2131101d1c3af8bd3a548a</button>
+        <item_parameter display_value="Request end_date">e39701383921311057df2796122a0c8a</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:17</sys_created_on>
+        <sys_id>a3970138a7213110f64133104d2b5b8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e39701383921311057df2796122a0c8a</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a3970138a7213110f64133104d2b5b8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:17</sys_updated_on>
+        <ui_parameter display_value="End date">af97013839213110b7959b53254b5b89</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

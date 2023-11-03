@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Record Open Modal">67970138de2131107349ae404160aaa4</action_payload_definition>
+        <label>Record Open Modal Form</label>
+        <model display_value="Form">360935e9534723003eddddeeff7b127d</model>
+        <payload_map>route=custom_1^size=md^fields@table={{table}}^fields@sysId={{sysId}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:20</sys_created_on>
+        <sys_id>af970138e2213110f7fc186408f6e0a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Open Modal Form</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_af970138e2213110f7fc186408f6e0a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:20</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

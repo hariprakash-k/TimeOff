@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>to_recent_bundle</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:24</sys_created_on>
+        <sys_id>ef97013865213110fd1e0d1f0fea1454</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>to_recent_bundle</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_ef97013865213110fd1e0d1f0fea1454</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:24</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

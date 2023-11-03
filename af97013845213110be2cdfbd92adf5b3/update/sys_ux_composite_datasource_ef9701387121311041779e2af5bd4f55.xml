@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_datasource">
+    <sys_ux_composite_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <encoded_query_script/>
+        <name>Time Off Datasource (by start date)</name>
+        <sort_by>start_date</sort_by>
+        <sys_class_name>sys_ux_composite_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:09</sys_created_on>
+        <sys_id>ef9701387121311041779e2af5bd4f55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Datasource (by start date)</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_ux_composite_datasource_ef9701387121311041779e2af5bd4f55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:09</sys_updated_on>
+        <table>x_962123_time_off_request</table>
+    </sys_ux_composite_datasource>
+</record_update>

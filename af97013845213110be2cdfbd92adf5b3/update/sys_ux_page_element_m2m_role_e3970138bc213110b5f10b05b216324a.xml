@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Dashboard Button">e3970138372131104904f36b0dc816a9</element>
+        <group/>
+        <role display_value="x_962123_time_off.admin" name="x_962123_time_off.admin">a7970138f221311038dfcbee029085b3</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:31</sys_created_on>
+        <sys_id>e3970138bc213110b5f10b05b216324a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_e3970138bc213110b5f10b05b216324a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:31</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+</record_update>

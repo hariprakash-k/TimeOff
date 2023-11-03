@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_962123_time_off.admin" name="x_962123_time_off.admin">a7970138f221311038dfcbee029085b3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:27</sys_created_on>
+        <sys_id>2f970138a92131104c849ce31d7a649f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a7970138f221311038dfcbee029085b3</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2f970138a92131104c849ce31d7a649f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

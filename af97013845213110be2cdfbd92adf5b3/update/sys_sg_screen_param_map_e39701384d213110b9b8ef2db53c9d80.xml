@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Approved or Rejected">a79701386421311034fdeec724372e84</item_parameter>
+        <screen display_value="Time Off Requests">e797013890213110265b56c50504f288</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:10</sys_created_on>
+        <sys_id>e39701384d213110b9b8ef2db53c9d80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a79701386421311034fdeec724372e84</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_e39701384d213110b9b8ef2db53c9d80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:10</sys_updated_on>
+        <ui_parameter display_value="URL">2b9701386d213110ef2a3dac160c5981</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

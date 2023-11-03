@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Time Off Request (Donut) Navigation">eb970138ec2131108ba4e201824bc688</jump_to_screen>
+        <name>Requests This Year</name>
+        <report display_value="Time Off Requests">ef9701385821311098f752dedd8ea491</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:23</sys_created_on>
+        <sys_id>ef9701387b2131104a7950712ccdcb86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requests This Year</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_sg_chart_ef9701387b2131104a7950712ccdcb86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:23</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

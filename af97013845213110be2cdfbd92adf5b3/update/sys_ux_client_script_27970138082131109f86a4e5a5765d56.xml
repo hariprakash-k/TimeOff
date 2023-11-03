@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">6b970138972131101de0bbed4c1cf265</macroponent>
+        <name>showOnloadAlerts</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[
+            function handler({api,event,imports}) {
+  var paramsString = api.context.props.extraParams,
+    paramsObj = paramsString?.split('/'),
+    alerts;
+
+  if (!paramsObj || !paramsObj.length || (paramsObj.indexOf('alerts') < 0)) return;
+
+  alerts = paramsObj[paramsObj.indexOf('alerts') + 1];
+  try {
+    alerts = JSON.parse(alerts);
+  } catch(e) {}
+
+  if (!alerts)
+    return;
+  if (typeof alerts == 'string') {
+    alerts = [{
+      id: "record-alert-1",
+      status: "info",
+      icon: "info-circle-outline",
+      content: alerts,
+      action: {
+        type: "dismiss"
+      }
+    }];
+  }
+  api.emit('NOW_UXF_PAGE#ADD_NOTIFICATIONS', {
+    items: alerts
+  });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:59:27</sys_created_on>
+        <sys_id>27970138082131109f86a4e5a5765d56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>showOnloadAlerts</sys_name>
+        <sys_package display_value="Time Off" source="x_962123_time_off">af97013845213110be2cdfbd92adf5b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">af97013845213110be2cdfbd92adf5b3</sys_scope>
+        <sys_update_name>sys_ux_client_script_27970138082131109f86a4e5a5765d56</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:59:27</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>
